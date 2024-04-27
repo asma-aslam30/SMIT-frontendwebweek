@@ -1,0 +1,41 @@
+ 
+.con-2{
+    margin-top: 100px !important;
+    height: 100px !important;
+    width: 100%;
+    background-color: #75BF7A;
+    border-radius: 10px;
+    
+}
+.number{
+    font-weight: 700;
+    font-size: 60px;
+    color: #75BF7A;
+}
+.section-3{
+    margin-left: 300px !important;
+}
+.divide1{
+    margin-left: 150px;
+width: 75%;
+    background-color: aliceblue;
+}
+.divide2{
+    margin-left: 100px;
+width: 70%;
+
+    background-color: aliceblue;
+
+}
+.divide3{
+    margin-left: 150px;
+width: 75%;
+
+    background-color: aliceblue;
+
+}
+.f-para{
+    line-height: 24px;
+    font-size: 12px;
+}
+ 

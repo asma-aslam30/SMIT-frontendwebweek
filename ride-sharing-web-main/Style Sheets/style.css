@@ -1,0 +1,110 @@
+.btn-color
+{
+    background-color: #75BF7A;
+    color: white;
+}
+
+.btn-color:hover
+{
+    background-color: #75BF7A;
+    color: white;
+}
+
+.bg-color
+{
+    background-color: #75BF7A;
+}
+
+.f-color
+{
+    color: #75BF7A;
+}
+
+.text-bar
+{
+    width: 450px;
+    height: 50px;
+}
+
+.text-bar-btn
+{
+    width: 200px;
+    height: 50px;
+}
+
+.num-img
+{
+    width: 80px;
+    height: 80px;
+}
+
+.foot-btn
+{
+    width: 200px !important;
+   
+}
+@media screen and (max-width:992px)
+{
+
+    .for-sm
+    {
+        width: 75% !important;
+        text-align: center !important;
+        display: flex !important;
+        justify-content: center !important;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .for-btn-sm
+    {
+        margin-left: auto;
+        margin-right: auto;
+        width: 75% !important;
+        display: flex;
+        justify-content: center;
+    }
+
+    .form-p
+    {
+        text-align: left !important;
+        font-size: 30px !important;
+    }
+
+    .form
+    {
+        display: flex;
+        justify-content: center;
+    }
+ 
+    .text-bar
+    {
+        height: 70px;
+    }
+ 
+    .text-bar-btn
+    {
+        height: 70px;
+        width: 450px;
+    }
+
+    .one-line
+    {
+        display: flex;
+    }
+
+    .media-width
+    {
+        width: 100% !important;
+    }
+ 
+    .index
+    {
+        z-index: -1 !important;
+    }
+
+    .bg
+    {
+        background-color: #f9f9f9 !important;
+    }
+}
